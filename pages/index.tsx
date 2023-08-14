@@ -15,8 +15,8 @@ export default function Home() {
                 <link rel="icon" href="/favicon.ico" />
 
                 <meta property="og:title" content="The Prospect" />
-                <meta property="og:description" content="Watch The Prospect's Performances" />
-                <meta property="og:image" content="https://api.theprospect.band/v1/performance_images/bricket-wood-social-club.webp" />
+                <meta property="og:description" content="The Prospect is a 4 piece Indie Rock band from Hertfordshire." />
+                <meta property="og:image" content="/assets/og.jpg" />
                 <meta property="og:url" content="https://theprospect.band/" />
             </Head>
 
