@@ -9,10 +9,12 @@ export default function Home() {
                 <title>The Prospect</title>
                 <meta name="description" content="The Prospect" />
                 <link rel="icon" href="/favicon.ico" />
+                <meta name="twitter:card" content="summary_large_image" />
 
                 <meta property="og:title" content="The Prospect" />
                 <meta property="og:description" content="The Prospect is a 4 piece Indie Rock band from Hertfordshire." />
                 <meta property="og:image" content="/assets/og.jpg" />
+                <meta property="twitter:image:src" content="/assets/og.jpg" />
                 <meta property="og:url" content="https://theprospect.band/" />
             </Head>
 
