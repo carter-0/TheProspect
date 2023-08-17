@@ -35,20 +35,20 @@ export default function Home() {
                                     <td className={"font-bold py-5 text-xl"}>12 NOV 22</td>
                                     <td className={"font-semibold"}>Bricket Wood</td>
                                     <td className={"font-semibold"}>Bricket Wood Social Club</td>
-                                    <td className={"font-semibold cursor-not-allowed"}><s>Buy Tickets</s></td>
+                                    <td className={"font-semibold"}><Link target={"_blank"} href={"https://www.youtube.com/playlist?list=PLmnFu-RulYvwwc6xjghOVoOTJf8g1PGDA"}>Watch Highlights</Link></td>
                                 </tr>
 
                                 <tr className={"border-b py-5 px-2 border-gray-800 sm:flex-row"}>
                                     <td className={"font-bold py-5 text-xl"}>10 AUG 23</td>
                                     <td className={"font-semibold"}>St Albans</td>
                                     <td className={"font-semibold"}>The Horn</td>
-                                    <td className={"font-semibold cursor-not-allowed"}><s>Buy Tickets</s></td>
+                                    <td className={"font-semibold"}><Link target={"_blank"} href={"https://www.youtube.com/watch?v=-SFfhZLnXIA"}>Watch Highlights</Link></td>
                                 </tr>
 
                                 <tr className={"py-5 px-2 sm:flex-row"}>
-                                    <td className={"font-bold py-5 text-xl"}>15 AUG 23</td>
-                                    <td className={"font-semibold"}>Bricket Wood</td>
-                                    <td className={"font-semibold"}>Bricket Wood Social Club</td>
+                                    <td className={"font-bold py-5 text-xl"}>? ??? 23</td>
+                                    <td className={"font-semibold"}>???</td>
+                                    <td className={"font-semibold"}>???</td>
                                     <td className={"font-semibold"}><Link target={"_blank"} href={"https://linktr.ee/the_prospect"}>Buy Tickets</Link></td>
                                 </tr>
                             </tbody>
@@ -59,20 +59,20 @@ export default function Home() {
                                 <h3 className={"font-bold py-5 text-xl"}>12 NOV 22</h3>
                                 <h3 className={"font-semibold"}>Bricket Wood</h3>
                                 <h3 className={"font-semibold"}>Bricket Wood Social Club</h3>
-                                <h3 className={"font-semibold cursor-not-allowed"}><s>Buy Tickets</s></h3>
+                                <h3 className={"font-semibold"}><Link target={"_blank"} href={"https://www.youtube.com/playlist?list=PLmnFu-RulYvwwc6xjghOVoOTJf8g1PGDA"}>Watch Highlights</Link></h3>
                             </div>
 
                             <div className={"border-b w-[300px] py-5 px-2 border-gray-800 sm:flex-row"}>
                                 <h3 className={"font-bold py-5 text-xl"}>10 AUG 23</h3>
                                 <h3 className={"font-semibold"}>St Albans</h3>
                                 <h3 className={"font-semibold"}>The Horn</h3>
-                                <h3 className={"font-semibold cursor-not-allowed"}><s>Buy Tickets</s></h3>
+                                <h3 className={"font-semibold"}><Link target={"_blank"} href={"https://www.youtube.com/watch?v=-SFfhZLnXIA"}>Watch Highlights</Link></h3>
                             </div>
 
                             <div className={"py-5 w-[300px] px-2 sm:flex-row"}>
-                                <h3 className={"font-bold py-5 text-xl"}>15 AUG 23</h3>
-                                <h3 className={"font-semibold"}>Bricket Wood</h3>
-                                <h3 className={"font-semibold"}>Bricket Wood Social Club</h3>
+                                <h3 className={"font-bold py-5 text-xl"}>?? ??? ??</h3>
+                                <h3 className={"font-semibold"}>???</h3>
+                                <h3 className={"font-semibold"}>???</h3>
                                 <h3 className={"font-semibold"}><Link target={"_blank"} href={"https://linktr.ee/the_prospect"}>Buy Tickets</Link></h3>
                             </div>
                         </div>
