@@ -70,10 +70,10 @@ export default function Home() {
                             </div>
 
                             <div className={"py-5 w-[300px] px-2 sm:flex-row"}>
-                                <h3 className={"font-bold py-5 text-xl"}>?? ??? ??</h3>
-                                <h3 className={"font-semibold"}>???</h3>
-                                <h3 className={"font-semibold"}>???</h3>
-                                <h3 className={"font-semibold"}><Link target={"_blank"} href={"https://linktr.ee/the_prospect"}>Buy Tickets</Link></h3>
+                                <h3 className={"font-bold py-5 text-xl"}>21 SEPT 23</h3>
+                                <h3 className={"font-semibold"}>St Albans</h3>
+                                <h3 className={"font-semibold"}>The Horn</h3>
+                                <h3 className={"font-semibold"}><Link target={"_blank"} href={"https://www.ticketweb.uk/event/ini-lowe-matty-ram-the-the-horn-tickets/13519698"}>Buy Tickets</Link></h3>
                             </div>
                         </div>
                     </div>
