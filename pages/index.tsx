@@ -29,27 +29,27 @@ export default function Home() {
                 <div className={"flex flex-row py-40 justify-center items-center"}>
                     <div className="max-w-7xl w-full">
                         <h2 className={"text-6xl font-bold prospect-font text-center mb-10"}>Live Music</h2>
-                        <table className={"min-w-full hidden sm:table px-5 border-collapse"}>
-                            <tbody>
+                        <table className={"min-w-full hidden sm:table px-10 border-collapse"}>
+                            <tbody className={"border-1 border-red-500"}>
                                 <tr className={"border-b border-gray-800 sm:flex-row"}>
-                                    <td className={"font-bold py-5 text-xl"}>12 NOV 22</td>
-                                    <td className={"font-semibold"}>Bricket Wood</td>
-                                    <td className={"font-semibold"}>Bricket Wood Social Club</td>
-                                    <td className={"font-semibold"}><Link target={"_blank"} href={"https://www.youtube.com/playlist?list=PLmnFu-RulYvwwc6xjghOVoOTJf8g1PGDA"}>Watch Highlights</Link></td>
+                                    <td className={"font-bold py-5 text-xl text-left"}>12 NOV 22</td>
+                                    <td className={"font-semibold text-center"}>Bricket Wood</td>
+                                    <td className={"font-semibold text-center"}>Bricket Wood Social Club</td>
+                                    <td className={"font-semibold text-right"}><Link target={"_blank"} href={"https://www.youtube.com/playlist?list=PLmnFu-RulYvwwc6xjghOVoOTJf8g1PGDA"}>Watch Highlights</Link></td>
                                 </tr>
 
                                 <tr className={"border-b py-5 px-2 border-gray-800 sm:flex-row"}>
-                                    <td className={"font-bold py-5 text-xl"}>10 AUG 23</td>
-                                    <td className={"font-semibold"}>St Albans</td>
-                                    <td className={"font-semibold"}>The Horn</td>
-                                    <td className={"font-semibold"}><Link target={"_blank"} href={"https://www.youtube.com/watch?v=-SFfhZLnXIA"}>Watch Highlights</Link></td>
+                                    <td className={"font-bold py-5 text-xl text-left"}>10 AUG 23</td>
+                                    <td className={"font-semibold text-center"}>St Albans</td>
+                                    <td className={"font-semibold text-center"}>The Horn</td>
+                                    <td className={"font-semibold text-right"}><Link target={"_blank"} href={"https://www.youtube.com/watch?v=-SFfhZLnXIA"}>Watch Highlights</Link></td>
                                 </tr>
 
                                 <tr className={"py-5 px-2 sm:flex-row"}>
-                                    <td className={"font-bold py-5 text-xl"}>? ??? 23</td>
-                                    <td className={"font-semibold"}>???</td>
-                                    <td className={"font-semibold"}>???</td>
-                                    <td className={"font-semibold"}><Link target={"_blank"} href={"https://linktr.ee/the_prospect"}>Buy Tickets</Link></td>
+                                    <td className={"font-bold py-5 text-xl text-left"}>21 SEPT 23</td>
+                                    <td className={"font-semibold text-center"}>St Albans</td>
+                                    <td className={"font-semibold text-center"}>The Horn</td>
+                                    <td className={"font-semibold text-right w-32"}><Link target={"_blank"} href={"https://www.ticketweb.uk/event/ini-lowe-matty-ram-the-the-horn-tickets/13519698"}>Buy Tickets (code: PRO23)</Link></td>
                                 </tr>
                             </tbody>
                         </table>
