@@ -49,7 +49,14 @@ export default function Home() {
                                     <td className={"font-bold py-5 text-xl text-left"}>21 SEPT 23</td>
                                     <td className={"font-semibold text-center"}>St Albans</td>
                                     <td className={"font-semibold text-center"}>The Horn</td>
-                                    <td className={"font-semibold text-right w-32"}><Link target={"_blank"} href={"https://www.ticketweb.uk/event/ini-lowe-matty-ram-the-the-horn-tickets/13519698"}>Buy Tickets (code: PRO23)</Link></td>
+                                    <td className={"font-semibold text-right w-32"}><Link target={"_blank"} href={"https://www.instagram.com/p/CxwMMlDt2es"}>Watch Highlights</Link></td>
+                                </tr>
+
+                                <tr className={"py-5 px-2 sm:flex-row"}>
+                                    <td className={"font-bold py-5 text-xl text-left"}>21 SEPT 23</td>
+                                    <td className={"font-semibold text-center"}>Hemel Hempstead</td>
+                                    <td className={"font-semibold text-center"}>The Old Town Hall</td>
+                                    <td className={"font-semibold text-right w-32"}><Link target={"_blank"} href={"https://oldtownhall.co.uk/events/juicebox-live-oct-2023"}>Buy Tickets</Link></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -73,7 +80,14 @@ export default function Home() {
                                 <h3 className={"font-bold py-5 text-xl"}>21 SEPT 23</h3>
                                 <h3 className={"font-semibold"}>St Albans</h3>
                                 <h3 className={"font-semibold"}>The Horn</h3>
-                                <h3 className={"font-semibold"}><Link target={"_blank"} href={"https://www.ticketweb.uk/event/ini-lowe-matty-ram-the-the-horn-tickets/13519698"}>Buy Tickets</Link></h3>
+                                <h3 className={"font-semibold"}><Link target={"_blank"} href={"https://www.instagram.com/p/CxwMMlDt2es"}>Watch Highlights</Link></h3>
+                            </div>
+
+                            <div className={"py-5 w-[300px] px-2 sm:flex-row"}>
+                                <h3 className={"font-bold py-5 text-xl"}>21 SEPT 23</h3>
+                                <h3 className={"font-semibold"}>Hemel Hempstead</h3>
+                                <h3 className={"font-semibold"}>The Old Town Hall</h3>
+                                <h3 className={"font-semibold"}><Link target={"_blank"} href={"https://oldtownhall.co.uk/events/juicebox-live-oct-2023"}>Buy Tickets</Link></h3>
                             </div>
                         </div>
                     </div>
