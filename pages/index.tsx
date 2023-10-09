@@ -45,7 +45,7 @@ export default function Home() {
                                     <td className={"font-semibold text-right"}><Link target={"_blank"} href={"https://www.youtube.com/watch?v=-SFfhZLnXIA"}>Watch Highlights</Link></td>
                                 </tr>
 
-                                <tr className={"py-5 px-2 sm:flex-row"}>
+                                <tr className={"border-b py-5 px-2 border-gray-800 sm:flex-row"}>
                                     <td className={"font-bold py-5 text-xl text-left"}>21 SEPT 23</td>
                                     <td className={"font-semibold text-center"}>St Albans</td>
                                     <td className={"font-semibold text-center"}>The Horn</td>
@@ -53,7 +53,7 @@ export default function Home() {
                                 </tr>
 
                                 <tr className={"py-5 px-2 sm:flex-row"}>
-                                    <td className={"font-bold py-5 text-xl text-left"}>21 SEPT 23</td>
+                                    <td className={"font-bold py-5 text-xl text-left"}>21 OCT 23</td>
                                     <td className={"font-semibold text-center"}>Hemel Hempstead</td>
                                     <td className={"font-semibold text-center"}>The Old Town Hall</td>
                                     <td className={"font-semibold text-right w-32"}><Link target={"_blank"} href={"https://oldtownhall.co.uk/events/juicebox-live-oct-2023"}>Buy Tickets</Link></td>
@@ -76,7 +76,7 @@ export default function Home() {
                                 <h3 className={"font-semibold"}><Link target={"_blank"} href={"https://www.youtube.com/watch?v=-SFfhZLnXIA"}>Watch Highlights</Link></h3>
                             </div>
 
-                            <div className={"py-5 w-[300px] px-2 sm:flex-row"}>
+                            <div className={"border-b w-[300px] py-5 px-2 border-gray-800 sm:flex-row"}>
                                 <h3 className={"font-bold py-5 text-xl"}>21 SEPT 23</h3>
                                 <h3 className={"font-semibold"}>St Albans</h3>
                                 <h3 className={"font-semibold"}>The Horn</h3>
@@ -84,7 +84,7 @@ export default function Home() {
                             </div>
 
                             <div className={"py-5 w-[300px] px-2 sm:flex-row"}>
-                                <h3 className={"font-bold py-5 text-xl"}>21 SEPT 23</h3>
+                                <h3 className={"font-bold py-5 text-xl"}>12 OCT 23</h3>
                                 <h3 className={"font-semibold"}>Hemel Hempstead</h3>
                                 <h3 className={"font-semibold"}>The Old Town Hall</h3>
                                 <h3 className={"font-semibold"}><Link target={"_blank"} href={"https://oldtownhall.co.uk/events/juicebox-live-oct-2023"}>Buy Tickets</Link></h3>
